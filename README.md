@@ -13,6 +13,9 @@ My passion lies in leveraging the power of Machine Learning and Deep Learning al
 I am always eager to collaborate and learn from professionals in the industry. If you would like to get in touch with me or discuss potential opportunities, please feel free to reach out to me through the following links:
 <h2>Contact Me!</h2>
 
+[GitHub.io](https://ayse-sadioglu.github.io/Portfolio/)
 [LinkedIn](https://www.linkedin.com/in/aysesadioglu/)
-[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/ayse-sadioglu/)
+[Twitter](https://twitter.com/daedraedra)
+
+
 
