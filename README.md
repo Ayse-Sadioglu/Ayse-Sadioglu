@@ -12,4 +12,5 @@ My passion lies in leveraging the power of Machine Learning and Deep Learning al
 
 I am always eager to collaborate and learn from professionals in the industry. If you would like to get in touch with me or discuss potential opportunities, please feel free to reach out to me through the following links:
 <h2>Contact Me!</h2>
-[LinkedIn](https://www.linkedin.com/in/aysesadioglu/)
+
+[LinkedIn] (https://www.linkedin.com/in/aysesadioglu/)
