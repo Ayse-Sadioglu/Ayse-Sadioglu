@@ -1,5 +1,5 @@
 
 
-![Proje Resmi](assets/banner1.gif)
+![Proje Resmi](./assets/banner1.gif)
 
 
