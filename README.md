@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-![banner][./banner.gif  "Github"]
+from datetime import date
+
+print(f'Bugün: {date.today()}')
