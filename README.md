@@ -26,7 +26,7 @@ I am always eager to collaborate and learn from professionals in the industry. I
   <img src="assests/java.png" alt="image" width="80" height="90">
     <img src="assests/py.png" alt="image" width="80" height="90">
       <img src="assests/react.png" alt="image" width="80" height="90">
-        <img src="assests/js.png" alt="image" width="80" height="90">
+        <img src="assests/js.png" alt="image" width="100" height="90">
           <img src="assests/android.png" alt="image" width="80" height="90">
             <img src="assests/css.png" alt="image" width="80" height="90">
               <img src="assests/html.png" alt="image" width="80" height="90">
