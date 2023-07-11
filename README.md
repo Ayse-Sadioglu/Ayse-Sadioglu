@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center"> Hi 👋 I am Ayse</h2>
+<h1 align="center"> Hi 👋 I am Ayse</h2>
 I am a fourth-year Computer Engineering student at TOBB University of Economics and Technology. I have a strong interest in the fields of Machine Learning and Deep Learning, and I thoroughly enjoy problem-solving.
 
 Throughout my academic journey, I have gained valuable experience in various areas. I have completed internships at three different companies, where I had the opportunity to work on projects related to web development, mobile development, and cybersecurity. These experiences have equipped me with practical skills and knowledge in these domains.
