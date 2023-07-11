@@ -14,5 +14,5 @@ I am always eager to collaborate and learn from professionals in the industry. I
 <h2>Contact Me!</h2>
 
 [LinkedIn](https://www.linkedin.com/in/aysesadioglu/)
-[![LinkedIn Logo](https://www.vecteezy.com/png/18930587-linkedin-logo-png-linkedin-icon-transparent-png)](https://www.linkedin.com/in/ayse-sadioglu/)
+[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/ayse-sadioglu/)
 
