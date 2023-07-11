@@ -23,7 +23,7 @@ I am always eager to collaborate and learn from professionals in the industry. I
 
 
 
-  <img src="assests/java.png" alt="image" width="10" height="10">
+  <img src="assests/java.png" alt="image" width="30" height="30">
     <img src="assests/py.png" alt="image" width="10" height="10">
       <img src="assests/react.png" alt="image" width="10" height="10">
         <img src="assests/js.png" alt="image" width="10" height="10">
