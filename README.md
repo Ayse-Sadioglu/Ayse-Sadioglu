@@ -14,7 +14,11 @@ I am always eager to collaborate and learn from professionals in the industry. I
 <h2>Contact Me!</h2>
 
 [GitHub.io](https://ayse-sadioglu.github.io/Portfolio/)
+<br/>  
+
 [LinkedIn](https://www.linkedin.com/in/aysesadioglu/)
+<br/>  
+
 [Twitter](https://twitter.com/daedraedra)
 
 
