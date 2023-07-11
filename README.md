@@ -1,3 +1,3 @@
-![Animasyon](assests/banner1.gif)
+![Animasyon](assests/banner3.gif)
 
 
