@@ -1,5 +1,3 @@
-
-
-![Proje Resmi](/assets/banner1.gif)
+![Animasyon](assests/banner1.gif)
 
 
