@@ -1,4 +1,5 @@
 ![Animasyon](assests/banner4.gif)
 
-# Hi 👋 I am Ayse
+<h2 align="center"> Hi 👋 I am Ayse</h2>
+
 
