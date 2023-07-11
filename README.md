@@ -11,4 +11,4 @@ Throughout my academic journey, I have gained valuable experience in various are
 My passion lies in leveraging the power of Machine Learning and Deep Learning algorithms to solve complex problems and make meaningful contributions. I am constantly seeking to expand my expertise in these areas through self-study and hands-on projects.
 
 I am always eager to collaborate and learn from professionals in the industry. If you would like to get in touch with me or discuss potential opportunities, please feel free to reach out to me through the following links:
-
+<h2>Contact Me!</h2>
