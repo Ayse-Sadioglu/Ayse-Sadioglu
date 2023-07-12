@@ -16,10 +16,10 @@ I am always eager to collaborate and learn from professionals in the industry. I
 Personal website: [GitHub.io](https://ayse-sadioglu.github.io/Portfolio/)
 <br/>  
 
-Linkedin: [LinkedIn](https://www.linkedin.com/in/aysesadioglu/)
+ [LinkedIn](https://www.linkedin.com/in/aysesadioglu/)
 <br/>  
 
-Twitter: [Twitter](https://twitter.com/daedraedra)
+[Twitter](https://twitter.com/daedraedra)
 
 
 
