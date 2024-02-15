@@ -19,7 +19,7 @@ Personal website: [GitHub.io](https://ayse-sadioglu.github.io/Portfolio/)
  [LinkedIn](https://www.linkedin.com/in/aysesadioglu/)
 <br/>  
 
-[Twitter](https://twitter.com/daedraedra)
+
 
 
 
