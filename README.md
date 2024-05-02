@@ -14,7 +14,7 @@ I am always eager to collaborate and learn from professionals in the industry. I
 <h2>Contact Me!</h2>
 
 Personal website: [GitHub.io](https://ayse-sadioglu.github.io/Portfolio/)
-<br/>  
+<br/>  (working in progress)
 
  [LinkedIn](https://www.linkedin.com/in/aysesadioglu/)
 <br/>  
