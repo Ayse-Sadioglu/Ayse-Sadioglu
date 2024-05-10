@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/fresh.gif" alt="Animasyon" width="300" height="300">
+  
    <img src="assests/busy.gif" alt="Animasyon" width="400" height="300">
 </p>
 
@@ -13,6 +13,7 @@ I am particularly enthusiastic about exploring new technologies and methodologie
 
 I am always eager to collaborate and learn from professionals in the industry. If you would like to get in touch with me or discuss potential opportunities, please feel free to reach out to me through the following links:
 <h2>Contact Me!</h2>
+<img src="assests/fresh.gif" alt="Animasyon" width="100" height="100">
 
 Personal website: [GitHub.io](https://ayse-sadioglu.github.io/Portfolio/)
 <br/>  (working in progress)
