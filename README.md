@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assests/fresh.gif" alt="Animasyon" width="800" height="300">
+  <img src="assests/fresh.gif" alt="Animasyon" width="300" height="300">
 </p>
 
 
