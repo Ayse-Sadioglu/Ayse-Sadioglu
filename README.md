@@ -1,6 +1,6 @@
 <p align="center">
   
-   <img src="assests/busy.gif" alt="Animasyon" width="500" height="400">
+   <img src="assests/busy.gif" alt="Animasyon" width="600" height="300">
 </p>
 
 
