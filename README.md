@@ -7,7 +7,6 @@
 <h1 align="center"> Hi 👋 I am Ayse</h2>
 I am a fourth-year Computer Engineering student at TOBB University of Economics and Technology.
 
-Throughout my academic journey, I have gained valuable experience in various areas. I have completed internships at three different companies, where I had the opportunity to work on projects related to web development, mobile development, and cybersecurity. These experiences have equipped me with practical skills and knowledge in these domains.
 
 I am particularly enthusiastic about exploring new technologies and methodologies, developing my own projects, and contributing to open source projects. My dedication to continuous learning motivates me to constantly improve my skills and actively participate in the tech community, where I both learn and contribute.
 
