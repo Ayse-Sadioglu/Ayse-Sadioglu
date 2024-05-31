@@ -8,7 +8,7 @@
 I am a fourth-year Computer Engineering student at TOBB University of Economics and Technology.
 
 
-I am particularly enthusiastic about exploring new technologies and methodologies, developing my own projects, and contributing to open source projects. My dedication to continuous learning motivates me to constantly improve my skills and actively participate in the tech community, where I both learn and contribute.
+I am particularly enthusiastic about exploring new technologies and methodologies, developing my own projects, and contributing to open source projects.
 
 I am always eager to collaborate and learn from professionals in the industry. If you would like to get in touch with me or discuss potential opportunities, please feel free to reach out to me through the following links:
 <h2>Contact Me!</h2>
