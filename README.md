@@ -4,7 +4,7 @@
 </p>
 
 
-<h1 align="center"> Hi 👋 I am Ayse</h2>
+<h1 align="center">Greetings👋 </h2>
 I am a fourth-year Computer Engineering student at TOBB University of Economics and Technology.
 
 
