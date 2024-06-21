@@ -15,7 +15,7 @@ I am always eager to collaborate and learn from professionals in the industry. I
 <img src="assests/fresh.gif" alt="Animasyon" width="100" height="100">
 
 Personal website: [GitHub.io](https://ayse-sadioglu.github.io/Portfolio/)
-<br/>  (work in progress)
+<br/>  
 
  [LinkedIn](https://www.linkedin.com/in/aysesadioglu/)
 <br/>  
